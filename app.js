@@ -16,8 +16,6 @@ for (let button of buttons) {
      });
 }
 
-
-
 const diffColor = (color, delay) => {
     return new Promise((resolve, reject) => {
         setTimeout(() => {
